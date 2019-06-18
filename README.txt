@@ -12,3 +12,4 @@ PRACTICE WEBSITES:
 2.https://www.hackerearth.com/ 
 3.https://www.codechef.com/
 4.https://www.codecademy.com/
+5.https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleTimeString
