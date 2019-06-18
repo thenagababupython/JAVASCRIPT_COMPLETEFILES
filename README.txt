@@ -6,10 +6,10 @@ ava-->jdk---->jvm javscript--->browser--->js Enginee
 WEBSITES:
 1.https://mockaroo.com/ ---to generate random data purpose 
 2.https://www.minifier.org/ ----to minify the program of js ,css
+3.https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleTimeString
 
 PRACTICE WEBSITES:
 1.https://codingbat.com/java 
 2.https://www.hackerearth.com/ 
 3.https://www.codechef.com/
 4.https://www.codecademy.com/
-5.https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleTimeString
